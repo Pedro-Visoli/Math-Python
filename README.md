@@ -1,6 +1,6 @@
 # Math-Python
 
-In this repository I will publish my projects of Python to solve math problems.
+In this repository I will publish my Python Projects to solve math problems.
 The focus is improve knowledge of Python and the logic of coding.
 
 ---
